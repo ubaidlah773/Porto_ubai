@@ -381,7 +381,7 @@ b, strong {
   font-size: 100px;
   line-height: normal;
 }
-.owl-carousel .owl-nav.owl-prev:before {
+.owl-carousel .owl-nav .owl-prev:before {
   content: '\e833';
   left: -45px;
 }
@@ -507,7 +507,7 @@ b, strong {
   }
 
   .navbar-collapse {
-    background: #151515;
+    background: #ffffff;
     text-align: center;
     padding-bottom: 20px;
   }
