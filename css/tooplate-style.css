@@ -473,7 +473,7 @@ b, strong {
 }
 @media (max-width: 991px) {
   .full-screen {
-    padding-bottom: 4rem;
+    padding-bottom: 15rem;
   }
 
   .color-mode {
